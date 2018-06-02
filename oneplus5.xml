@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Unofficial>
+        <cheeseburger>
+            <Filename>liquid_remix-9.1.1-20180601-UNOFFICIAL-cheeseburger.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="LiquidRemix"
+                description="Download latest build for cheeseburger">https://www.androidfilehost.com/?fid=818222786056034146</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Click here to view latest changes">https://pastebin.com/5xZNHA4L</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="OpenGApps"
+            	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
+        </cheeseburger>
+        <dumpling>
+            <Filename>liquid_remix-9.1.1-20180601-UNOFFICIAL-dumpling.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="LiquidRemix"
+                description="Download latest build for dumpling">https://www.androidfilehost.com/?fid=962339331458995746</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Click here to view latest changes">https://pastebin.com/5xZNHA4L</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="OpenGApps"
+            	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
+        </dumpling>
+    </Unofficial>
+</SlimOTA>
