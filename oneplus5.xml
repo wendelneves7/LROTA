@@ -2,30 +2,30 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <cheeseburger>
-            <Filename>9.1.1-20180610-OFFICIAL-cheeseburger.zip</Filename>
+            <Filename>9.1.2-20180624-OFFICIAL-cheeseburger.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for cheeseburger">https://www.androidfilehost.com/?fid=890278863836290778</RomUrl>
+                description="Download latest build for cheeseburger">https://www.androidfilehost.com/?fid=962339331459002886</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://pastebin.com/KjzC2uVF</ChangelogUrl>
+                description="Click here to view latest changes">https://pastebin.com/r4zGVTbD</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
         </cheeseburger>
         <dumpling>
-            <Filename>9.1.1-20180610-OFFICIAL-dumpling.zip</Filename>
+            <Filename>9.1.2-20180624-OFFICIAL-dumpling.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for dumpling">https://www.androidfilehost.com/?fid=674106145207492343</RomUrl>
+                description="Download latest build for dumpling">https://www.androidfilehost.com/?fid=746163614322275913</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://pastebin.com/KjzC2uVF</ChangelogUrl>
+                description="Click here to view latest changes">https://pastebin.com/r4zGVTbD</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
