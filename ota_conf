@@ -6,8 +6,8 @@
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 # * Chances are you only need to change the ota_url in this file 
 #
-ota_url=https://raw.githubusercontent.com/liquid0624/LROTA/oc-mr2/oneplus5.xml
-release_type=Unofficial
+ota_url=https://raw.githubusercontent.com/wendelneves7/LROTA/oc-mr2/vince.xml
+release_type=Official
 device_name=ro.liquid.device
 
 #
@@ -17,7 +17,7 @@ device_name=ro.liquid.device
 # A version source can be a 'property key' from build.prop or a 'uname -r' command line
 # If a version is a number, leave the version_format empty. Otherwise, provide the date format
 #
-# Example with a property key 'ro.liquid.version' : Parse the date 20180605 from 'liquid_remix-9.1.1-20180605-UNOFFICIAL-cheeseburger'
+# Example with a property key 'ro.liquid.version' : Parse the date 20180625 from 'liquid_remix-9.1.2-20180625-OFFICIAL-vince'
 #
 # Version source: ro.liquid.version
 # Version delimiter: -
