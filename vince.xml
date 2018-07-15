@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <vince>
-            <Filename>9.1.2-20180627-OFFICIAL-vince.zip</Filename>
+            <Filename>9.1.2-20180625-OFFICIAL-vince.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for vince">https://www.androidfilehost.com/?fid=746163614322276210</RomUrl>
+                description="Download latest build for vince">https://www.androidfilehost.com/?w=files&flid=278129</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://pastebin.com/6VtSrdm8</ChangelogUrl>
+                description="Click here to view latest changes"></ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
