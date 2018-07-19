@@ -1,5 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<Official>
+        <vince>
+            <Filename>9.1.3-20180718-OFFICIAL-vince.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="LiquidRemix"
+                description="Download latest build for vince">https://androidfilehost.com/?fid=5862345805528049588</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Click here to view latest changes">https://hastebin.com/haquhodopu.css</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="OpenGApps"
+            	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
+        </vince>
+    </Official>
     <Official>
         <vince>
             <Filename>9.1.3-20180715-OFFICIAL-vince.zip</Filename>
